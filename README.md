@@ -21,7 +21,11 @@ We want to document all the best techniques for growing each produce at the best
 
 - Dwarf Trees for fruit trees is a perfect idea formed by gene breeding/splicing for faster yields for similar fruits. Faster to grow and bare fruit with less resources.
 
-## Storage11
+## Vision
+
+- Having the largest library of grow recipes for NASA grade produce at the lowest costs
+
+## Storage
 
 - Free storage for recipes to save the world from hungry
 
