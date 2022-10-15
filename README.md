@@ -19,9 +19,9 @@ We want to document all the best techniques for growing each produce at the best
 
 - All engineering must have "Mother Nature" in mind for the sake of sanity. Giving plants the perfect environments to grow and yield in the perfect conditions for the shortest amount of growth time
 
-- Dwarf Trees for fruit trees is a perfect idea formed by gene breeding/splicing for faster yields for similar fruits
+- Dwarf Trees for fruit trees is a perfect idea formed by gene breeding/splicing for faster yields for similar fruits. Faster to grow and bare fruit with less resources.
 
-## Storage
+## Storage11
 
 - Free storage for recipes to save the world from hungry
 
